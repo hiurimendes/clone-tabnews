@@ -23,7 +23,7 @@ function Home() {
       </h1>
       <p style={{ 
         fontFamily: 'monospace',
-        fontSize: '14px'
+        fontSize: '16px'
       }}>
         Created for Your glory.
       </p>
