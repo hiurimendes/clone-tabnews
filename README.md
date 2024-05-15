@@ -2,6 +2,6 @@
 
 Implementação do tabnews.com.br para o curso.dev
 
-# Dia 26
+# Dia 27
 
-Git branch (3 níveis de compreensão)
+Git Merge (Fast Forward)
