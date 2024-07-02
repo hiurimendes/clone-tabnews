@@ -4,6 +4,7 @@ beforeAll(cleanDatabase);
 
 async function cleanDatabase() {
   await database.query("drop schema public cascade; create schema public;");
+  new Promise(resolve => setTimeout(resolve, 1000))
 }
 
 test("POST to /api/v1/migrations should return 200", async () => {
