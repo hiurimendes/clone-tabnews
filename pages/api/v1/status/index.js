@@ -1,5 +1,5 @@
 import database from "infra/database.js";
-import { InternalServerError } from "infra/errors"
+import { InternalServerError } from "infra/errors";
 
 async function status(request, response) {
   try {
@@ -33,12 +33,12 @@ async function status(request, response) {
     });
   } catch (error) {
     const publicErrorObjetct = new InternalServerError({
-      cause: error
+      cause: error,
     });
-    
+
     console.log("\n Erro dentro do catch do controller:");
     console.error(publicErrorObjetct);
-    
+
     response.status(500).json(publicErrorObjetct);
   }
 }
