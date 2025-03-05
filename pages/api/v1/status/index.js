@@ -1,46 +1,40 @@
+import { createRouter } from "next-connect";
 import database from "infra/database.js";
-import { InternalServerError } from "infra/errors";
+import controller from "infra/controller.js";
 
-async function status(request, response) {
-  try {
-    const queryPostgresVersion = await database.query("SHOW server_version;");
-    const postgres_version = queryPostgresVersion.rows[0].server_version;
+const router = createRouter();
 
-    const queryPostgresMaxConnection = await database.query(
-      "SHOW max_connections;",
-    );
-    const postgresMaxConnection =
-      queryPostgresMaxConnection.rows[0].max_connections;
+router.get(getHandler);
 
-    const databaseName = process.env.POSTGRES_DB;
+export default router.handler(controller.errorHandlers);
 
-    const queryPostgresActiveConnection = await database.query({
-      text: "select count(*)::int active_connections from pg_stat_activity WHERE datname = $1;",
-      values: [databaseName],
-    });
+async function getHandler(request, response) {
+  const queryPostgresVersion = await database.query("SHOW server_version;");
+  const postgres_version = queryPostgresVersion.rows[0].server_version;
 
-    const postgresActiveConnection =
-      queryPostgresActiveConnection.rows[0].active_connections;
+  const queryPostgresMaxConnection = await database.query(
+    "SHOW max_connections;",
+  );
+  const postgresMaxConnection =
+    queryPostgresMaxConnection.rows[0].max_connections;
 
-    const updatedAt = new Date().toISOString();
-    response.status(200).json({
-      updated_at: updatedAt,
-      dependencies: {
-        version: postgres_version,
-        max_connections: parseInt(postgresMaxConnection),
-        postgres_actconn: postgresActiveConnection,
-      },
-    });
-  } catch (error) {
-    const publicErrorObjetct = new InternalServerError({
-      cause: error,
-    });
+  const databaseName = process.env.POSTGRES_DB;
 
-    console.log("\n Erro dentro do catch do controller:");
-    console.error(publicErrorObjetct);
+  const queryPostgresActiveConnection = await database.query({
+    text: "select count(*)::int active_connections from pg_stat_activity WHERE datname = $1;",
+    values: [databaseName],
+  });
 
-    response.status(500).json(publicErrorObjetct);
-  }
+  const postgresActiveConnection =
+    queryPostgresActiveConnection.rows[0].active_connections;
+
+  const updatedAt = new Date().toISOString();
+  response.status(200).json({
+    updated_at: updatedAt,
+    dependencies: {
+      version: postgres_version,
+      max_connections: parseInt(postgresMaxConnection),
+      postgres_actconn: postgresActiveConnection,
+    },
+  });
 }
-
-export default status;
