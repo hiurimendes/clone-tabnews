@@ -21,7 +21,7 @@ Implementação do tabnews.com.br para o curso.dev
 
 ## Dia 4
 - [x] Protocolos e rodando o site de forma local
-- [ ] Página inicial
+- [x] Página inicial
 - [ ] Um desafio importante
 
 ## Dia 5
