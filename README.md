@@ -16,7 +16,7 @@ Implementação do tabnews.com.br para o curso.dev
 - [x] Windows
 
 ## Dia 3
-- [ ] A fundação
+- [x] A fundação
 - [ ] A primeira parede
 
 ## Dia 4
