@@ -9,11 +9,11 @@ Implementação do tabnews.com.br para o curso.dev
 - [x] Pista Rápida e Pista Lenta
 
 ## Dia 2
-- [ ] Git? GitHub? É tudo a mesma coisa?a
-- [ ] Repositório: onde tudo começa
-- [ ] Ambiente de Desenvolvimento
-- [ ] Codespaces
-- [ ] Windows
+- [x] Git? GitHub? É tudo a mesma coisa?a
+- [x] Repositório: onde tudo começa
+- [x] Ambiente de Desenvolvimento
+- [x] Codespaces
+- [x] Windows
 
 ## Dia 3
 - [ ] A fundação
