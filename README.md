@@ -17,7 +17,7 @@ Implementação do tabnews.com.br para o curso.dev
 
 ## Dia 3
 - [x] A fundação
-- [ ] A primeira parede
+- [x] A primeira parede
 
 ## Dia 4
 - [ ] Protocolos e rodando o site de forma local
