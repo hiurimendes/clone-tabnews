@@ -22,7 +22,7 @@ Implementação do tabnews.com.br para o curso.dev
 ## Dia 4
 - [x] Protocolos e rodando o site de forma local
 - [x] Página inicial
-- [ ] Um desafio importante
+- [x] Um desafio importante
 
 ## Dia 5
 - [ ] Onde fica o "Git"? E como era feito antes disso?
