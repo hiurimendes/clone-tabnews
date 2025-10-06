@@ -4,12 +4,12 @@ Implementação do tabnews.com.br para o curso.dev
 
 
 ## Dia 1
-- [ ] Bem vindo(a)!
-- [ ] Como estão organizadas as aulas?
-- [ ] Pista Rápida e Pista Lenta
+- [x] Bem vindo(a)!
+- [x] Como estão organizadas as aulas?
+- [x] Pista Rápida e Pista Lenta
 
 ## Dia 2
-- [ ] Git? GitHub? É tudo a mesma coisa?
+- [ ] Git? GitHub? É tudo a mesma coisa?a
 - [ ] Repositório: onde tudo começa
 - [ ] Ambiente de Desenvolvimento
 - [ ] Codespaces
