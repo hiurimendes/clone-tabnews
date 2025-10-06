@@ -20,7 +20,7 @@ Implementação do tabnews.com.br para o curso.dev
 - [x] A primeira parede
 
 ## Dia 4
-- [ ] Protocolos e rodando o site de forma local
+- [x] Protocolos e rodando o site de forma local
 - [ ] Página inicial
 - [ ] Um desafio importante
 
