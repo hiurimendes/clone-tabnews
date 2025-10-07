@@ -2,38 +2,14 @@
 Implementação do tabnews.com.br para o curso.dev
 
 
-
-## Dia 1
-- [x] Bem vindo(a)!
-- [x] Como estão organizadas as aulas?
-- [x] Pista Rápida e Pista Lenta
-
-## Dia 2
-- [x] Git? GitHub? É tudo a mesma coisa?a
-- [x] Repositório: onde tudo começa
-- [x] Ambiente de Desenvolvimento
-- [x] Codespaces
-- [x] Windows
-
-## Dia 3
-- [x] A fundação
-- [x] A primeira parede
-
-## Dia 4
-- [x] Protocolos e rodando o site de forma local
-- [x] Página inicial
-- [x] Um desafio importante
-
-## Dia 5
-- [x] Onde fica o "Git"? E como era feito antes disso?
-- [x] Git Log (e o Jogo dos 7 Erros)
-- [x] Git Commit (e a Escada Infinita)
-- [x] Git Diff e Amend (e a Viagem no Tempo)
+.
+.
+.
 
 ## Dia 6
-- [ ] Git Push
-- [ ] Fazendo commits de forma mais rápida
-- [ ] Git Push De Novo (mas agora com ainda mais "força")
+- [x] Git Push
+- [x] Fazendo commits de forma mais rápida
+- [x] Git Push De Novo (mas agora com ainda mais "força")
 
 ## Dia 7
 - [ ] Client e Server
