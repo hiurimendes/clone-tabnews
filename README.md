@@ -25,10 +25,10 @@ Implementação do tabnews.com.br para o curso.dev
 - [x] Um desafio importante
 
 ## Dia 5
-- [ ] Onde fica o "Git"? E como era feito antes disso?
-- [ ] Git Log (e o Jogo dos 7 Erros)
-- [ ] Git Commit (e a Escada Infinita)
-- [ ] Git Diff e Amend (e a Viagem no Tempo)
+- [x] Onde fica o "Git"? E como era feito antes disso?
+- [x] Git Log (e o Jogo dos 7 Erros)
+- [x] Git Commit (e a Escada Infinita)
+- [x] Git Diff e Amend (e a Viagem no Tempo)
 
 ## Dia 6
 - [ ] Git Push
