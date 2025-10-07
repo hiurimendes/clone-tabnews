@@ -12,13 +12,13 @@ Implementação do tabnews.com.br para o curso.dev
 - [x] Git Push De Novo (mas agora com ainda mais "força")
 
 ## Dia 7
-- [ ] Client e Server
-- [ ] Hospedagem e Deploy
-- [ ] Fazendo novos Deploys
-- [ ] Resolvendo um problema com Epilif
-- [ ] Encerramento do Desafio (Resultados de todo mundo) 🎉
-- [ ] Pitstop 🏁
-- [ ] Se você puder ajudar, eu agradeço muito 🤝
+- [x] Client e Server
+- [x] Hospedagem e Deploy
+- [x] Fazendo novos Deploys
+- [x] Resolvendo um problema com Epilif
+- [x] Encerramento do Desafio (Resultados de todo mundo) 🎉
+- [x] Pitstop 🏁
+- [x] Se você puder ajudar, eu agradeço muito 🤝
 
 ## Dia 8
 - [ ] Programação "Orgânica" versus "Impressora 3D"
