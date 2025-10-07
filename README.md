@@ -6,23 +6,9 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 6
-- [x] Git Push
-- [x] Fazendo commits de forma mais rápida
-- [x] Git Push De Novo (mas agora com ainda mais "força")
-
-## Dia 7
-- [x] Client e Server
-- [x] Hospedagem e Deploy
-- [x] Fazendo novos Deploys
-- [x] Resolvendo um problema com Epilif
-- [x] Encerramento do Desafio (Resultados de todo mundo) 🎉
-- [x] Pitstop 🏁
-- [x] Se você puder ajudar, eu agradeço muito 🤝
-
 ## Dia 8
-- [ ] Programação "Orgânica" versus "Impressora 3D"
-- [ ] Por que meus projetos sempre dão certo?
+- [x] Programação "Orgânica" versus "Impressora 3D"
+- [x] Por que meus projetos sempre dão certo?
 
 ## Dia 9
 - [ ] Qual o “segredo” para organização de tarefas?
