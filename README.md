@@ -17,17 +17,10 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 14
-
-- [x] Inauguração Milestone 1: Fundação
-- [x] Uma história macabra sobre "Overengineering"
-- [x] Proposta de Arquitetura e Pastas
-- [x] 🎁 Bônus: PoC e MVP ajudam mesmo?
-
 ## Dia 15
 
-- [ ] Testes Automatizados: um caminho sem volta
-- [ ] Instalar um Test Runner
+- [x] Testes Automatizados: um caminho sem volta
+- [x] Instalar um Test Runner
 - [ ] Criar um "Teste de Teste"
 - [ ] Criar um "Teste de Verdade"
 
@@ -240,3 +233,6 @@ Implementação do tabnews.com.br para o curso.dev
 
 - [ ] Estratégia para feature de Autorização
 - [ ] Adicionando coluna "features" em "users"
+- [ ] Alterando código em massa usando RegEx
+- [ ] Feature padrão "read:activation_token"
+- [ ] Enviando email de ativação
