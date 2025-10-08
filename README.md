@@ -11,8 +11,8 @@ Implementação do tabnews.com.br para o curso.dev
 - [x] Uma história macabra sobre "Estilização de Código"
 - [x] Sincronização das configurações do Editor
 - [x] Configurar o EditorConfig
-- [ ] Configurar o Prettier
-- [ ] 🎁 Extra: Configurar o Prettier Ignore
+- [x] Configurar o Prettier
+- [x] 🎁 Extra: Configurar o Prettier Ignore
 
 ## Dia 11
 
