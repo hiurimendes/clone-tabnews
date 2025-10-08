@@ -13,17 +13,16 @@ Implementação do tabnews.com.br para o curso.dev
 - [ ] "Chorinho" sobre Servidor de DNS 💪
 - [ ] 🏳️ Capture The Flag: DNS
 
-## Dia 13
-
-- [x] Página "Em Construção" e Encerramento da Milestone 0
-- [x] Não confie em nenhum serviço 🛑
+.
+.
+.
 
 ## Dia 14
 
-- [ ] Inauguração Milestone 1: Fundação
-- [ ] Uma história macabra sobre "Overengineering"
-- [ ] Proposta de Arquitetura e Pastas
-- [ ] 🎁 Bônus: PoC e MVP ajudam mesmo?
+- [x] Inauguração Milestone 1: Fundação
+- [x] Uma história macabra sobre "Overengineering"
+- [x] Proposta de Arquitetura e Pastas
+- [x] 🎁 Bônus: PoC e MVP ajudam mesmo?
 
 ## Dia 15
 
