@@ -6,15 +6,11 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 9
-- [x] Qual o “segredo” para organização de tarefas?
-- [x] Como peitar projetos de qualquer tamanho?
-- [x] Criando a primeira Milestone e Issues do Projeto
 
 ## Dia 10
-- [ ] Uma história macabra sobre "Estilização de Código"
-- [ ] Sincronização das configurações do Editor
-- [ ] Configurar o EditorConfig
+- [x] Uma história macabra sobre "Estilização de Código"
+- [x] Sincronização das configurações do Editor
+- [x] Configurar o EditorConfig
 - [ ] Configurar o Prettier
 - [ ] 🎁 Extra: Configurar o Prettier Ignore
 
