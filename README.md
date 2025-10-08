@@ -6,14 +6,10 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 8
-- [x] Programação "Orgânica" versus "Impressora 3D"
-- [x] Por que meus projetos sempre dão certo?
-
 ## Dia 9
-- [ ] Qual o “segredo” para organização de tarefas?
-- [ ] Como peitar projetos de qualquer tamanho?
-- [ ] Criando a primeira Milestone e Issues do Projeto
+- [x] Qual o “segredo” para organização de tarefas?
+- [x] Como peitar projetos de qualquer tamanho?
+- [x] Criando a primeira Milestone e Issues do Projeto
 
 ## Dia 10
 - [ ] Uma história macabra sobre "Estilização de Código"
