@@ -6,19 +6,11 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 10
-
-- [x] Uma história macabra sobre "Estilização de Código"
-- [x] Sincronização das configurações do Editor
-- [x] Configurar o EditorConfig
-- [x] Configurar o Prettier
-- [x] 🎁 Extra: Configurar o Prettier Ignore
-
 ## Dia 11
 
-- [ ] Resolução de DNS (Desafio Nível 1)
-- [ ] Você conseguiu encontrar o link secreto!
-- [ ] Resolução de DNS (Desafio Nível 2)
+- [x] Resolução de DNS (Desafio Nível 1)
+- [x] Você conseguiu encontrar o link secreto!
+- [x] Resolução de DNS (Desafio Nível 2)
 
 ## Dia 12
 
