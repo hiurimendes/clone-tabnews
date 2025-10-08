@@ -6,12 +6,6 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 11
-
-- [x] Resolução de DNS (Desafio Nível 1)
-- [x] Você conseguiu encontrar o link secreto!
-- [x] Resolução de DNS (Desafio Nível 2)
-
 ## Dia 12
 
 - [ ] Registrar um Domínio Próprio
@@ -21,15 +15,15 @@ Implementação do tabnews.com.br para o curso.dev
 
 ## Dia 13
 
-- [ ] Página "Em Construção" e Encerramento da Milestone 0
-- [ ] Não confie em nenhum serviço 🛑
+- [x] Página "Em Construção" e Encerramento da Milestone 0
+- [x] Não confie em nenhum serviço 🛑
 
 ## Dia 14
 
-- [ ] 🎁 Bônus: PoC e MVP ajudam mesmo?
 - [ ] Inauguração Milestone 1: Fundação
 - [ ] Uma história macabra sobre "Overengineering"
 - [ ] Proposta de Arquitetura e Pastas
+- [ ] 🎁 Bônus: PoC e MVP ajudam mesmo?
 
 ## Dia 15
 
