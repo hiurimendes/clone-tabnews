@@ -17,19 +17,12 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 15
-
-- [x] Testes Automatizados: um caminho sem volta
-- [x] Instalar um Test Runner
-- [x] Criar um "Teste de Teste"
-- [x] Criar um "Teste de Verdade"
-
 ## Dia 16
 
-- [ ] A maior briga no universo dos Testes Automatizados
-- [ ] Encostando a mão no Protocolo HTTP 🔥
-- [ ] Não é magia! (é Protocolo)
-- [ ] Versionamento de API e Endpoint "/status"
+- [x] A maior briga no universo dos Testes Automatizados
+- [x] Encostando a mão no Protocolo HTTP 🔥
+- [x] Não é magia! (é Protocolo)
+- [x] Versionamento de API e Endpoint "/status"
 
 ## Dia 17
 
