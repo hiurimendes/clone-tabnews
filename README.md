@@ -21,8 +21,8 @@ Implementação do tabnews.com.br para o curso.dev
 
 - [x] Testes Automatizados: um caminho sem volta
 - [x] Instalar um Test Runner
-- [ ] Criar um "Teste de Teste"
-- [ ] Criar um "Teste de Verdade"
+- [x] Criar um "Teste de Teste"
+- [x] Criar um "Teste de Verdade"
 
 ## Dia 16
 
