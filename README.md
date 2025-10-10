@@ -17,16 +17,9 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 18
-
-- [x] Criar módulo "database.js"
-- [x] A importância das Variáveis de Ambiente
-- [x] Variáveis de Ambiente no Código
-- [x] Variáveis de Ambiente no Docker Compose
-
 ## Dia 19
 
-- [ ] Foi certo fazer o commit do .env?
+- [x] Foi certo fazer o commit do .env?
 - [ ] Uma história macabra sobre "Choque Elétrico" e "TDD"
 - [ ] Configurar o "baseUrl" para "Absolute Imports"
 - [ ] Configurar scripts dos serviços
