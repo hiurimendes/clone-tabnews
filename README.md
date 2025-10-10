@@ -17,19 +17,12 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 17
-
-- [x] Qual Banco de Dados escolher?
-- [x] Por que o Docker dominou o mundo?
-- [x] Subir Banco de Dados (Local)
-- [x] Se conectando no Banco de Dados (Local)
-
 ## Dia 18
 
-- [ ] Criar módulo "database.js"
-- [ ] A importância das Variáveis de Ambiente
-- [ ] Variáveis de Ambiente no Código
-- [ ] Variáveis de Ambiente no Docker Compose
+- [x] Criar módulo "database.js"
+- [x] A importância das Variáveis de Ambiente
+- [x] Variáveis de Ambiente no Código
+- [x] Variáveis de Ambiente no Docker Compose
 
 ## Dia 19
 
