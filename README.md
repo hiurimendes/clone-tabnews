@@ -17,19 +17,12 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 16
-
-- [x] A maior briga no universo dos Testes Automatizados
-- [x] Encostando a mão no Protocolo HTTP 🔥
-- [x] Não é magia! (é Protocolo)
-- [x] Versionamento de API e Endpoint "/status"
-
 ## Dia 17
 
-- [ ] Qual Banco de Dados escolher?
-- [ ] Por que o Docker dominou o mundo?
-- [ ] Subir Banco de Dados (Local)
-- [ ] Se conectando no Banco de Dados (Local)
+- [x] Qual Banco de Dados escolher?
+- [x] Por que o Docker dominou o mundo?
+- [x] Subir Banco de Dados (Local)
+- [x] Se conectando no Banco de Dados (Local)
 
 ## Dia 18
 
