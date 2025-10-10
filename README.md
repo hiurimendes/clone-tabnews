@@ -20,8 +20,8 @@ Implementação do tabnews.com.br para o curso.dev
 ## Dia 19
 
 - [x] Foi certo fazer o commit do .env?
-- [ ] Uma história macabra sobre "Choque Elétrico" e "TDD"
-- [ ] Configurar o "baseUrl" para "Absolute Imports"
+- [x] Uma história macabra sobre "Choque Elétrico" e "TDD"
+- [x] Configurar o "baseUrl" para "Absolute Imports"
 - [ ] Configurar scripts dos serviços
 
 ## Dia 20
