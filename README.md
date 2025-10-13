@@ -19,9 +19,9 @@ Implementação do tabnews.com.br para o curso.dev
 
 ## Dia 21
 
-- [ ] Investigando logs da Vercel em Produção
-- [ ] Banco de Produção no ElephantSQL (gratuito)
-- [ ] Banco de Produção no Neon (gratuito)
+- [x] Investigando logs da Vercel em Produção
+- [x] Banco de Produção no ElephantSQL (gratuito)
+- [x] Banco de Produção no Neon (gratuito)
 - [ ] Banco de Produção no DigitalOcean (pago)
 
 ## Dia 22
