@@ -17,14 +17,6 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 20
-
-- [x] Endpoint "/status": ISO 8601 + Fuso + MVC + lowerCamelCase
-- [x] Database "Version" (+ Red, Green e Refactor do TDD)
-- [x] Database "Max Connections"
-- [x] Database "Opened Connections"
-- [x] SQL Injection e Queries Parametrizadas
-
 ## Dia 21
 
 - [ ] Investigando logs da Vercel em Produção
