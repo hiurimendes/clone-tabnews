@@ -17,20 +17,13 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 19
-
-- [x] Foi certo fazer o commit do .env?
-- [x] Uma história macabra sobre "Choque Elétrico" e "TDD"
-- [x] Configurar o "baseUrl" para "Absolute Imports"
-- [x] Configurar scripts dos serviços
-
 ## Dia 20
 
-- [ ] Endpoint "/status": ISO 8601 + Fuso + MVC + lowerCamelCase
-- [ ] Database "Version" (+ Red, Green e Refactor do TDD)
-- [ ] Database "Max Connections"
-- [ ] Database "Opened Connections"
-- [ ] SQL Injection e Queries Parametrizadas
+- [x] Endpoint "/status": ISO 8601 + Fuso + MVC + lowerCamelCase
+- [x] Database "Version" (+ Red, Green e Refactor do TDD)
+- [x] Database "Max Connections"
+- [x] Database "Opened Connections"
+- [x] SQL Injection e Queries Parametrizadas
 
 ## Dia 21
 
