@@ -17,17 +17,10 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 21
-
-- [x] Investigando logs da Vercel em Produção
-- [x] Banco de Produção no ElephantSQL (gratuito)
-- [x] Banco de Produção no Neon (gratuito)
-- [x] Banco de Produção no DigitalOcean (pago)
-
 ## Dia 22
 
-- [ ] Por que as Migrations existem?
-- [ ] Migrations por Linha de Comando
+- [x] Por que as Migrations existem?
+- [x] Migrations por Linha de Comando
 
 ## Dia 23
 
