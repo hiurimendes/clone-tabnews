@@ -17,17 +17,11 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 23
-
-- [x] Migrations pelo endpoint “/migrations” (Dry Run)
-- [x] Por que evitar a direção "down"?
-- [x] Migrations pelo endpoint "/migrations" (Live Run - Início)
-
 ## Dia 24
 
-- [ ] Fazendo o Jest "transpilar" arquivos em ESM
-- [ ] Limpando o Banco de Dados
-      [ ] -andindo testes e refatorando implementação
+- [x] Fazendo o Jest "transpilar" arquivos em ESM
+- [x] Limpando o Banco de Dados
+- [x] Expandindo testes e refatorando implementação
 
 ## Dia 25
 
