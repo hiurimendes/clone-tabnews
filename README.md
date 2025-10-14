@@ -17,16 +17,11 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 22
-
-- [x] Por que as Migrations existem?
-- [x] Migrations por Linha de Comando
-
 ## Dia 23
 
-- [ ] Migrations pelo endpoint “/migrations” (Dry Run)
-- [ ] Por que evitar a direção "down"?
-- [ ] Migrations pelo endpoint "/migrations" (Live Run - Início)
+- [x] Migrations pelo endpoint “/migrations” (Dry Run)
+- [x] Por que evitar a direção "down"?
+- [x] Migrations pelo endpoint "/migrations" (Live Run - Início)
 
 ## Dia 24
 
@@ -98,9 +93,6 @@ Implementação do tabnews.com.br para o curso.dev
 - [ ] Refatorando Scripts e "Efeito Estilingue Infinito"
 - [ ] Refatorando Testes Automatizados
 - [ ] Encerramento da Milestone 1 🎉
-- [ ] Pitstop #2 🏁
-- [ ] 📸 Tira uma "selfie" comigo?
-- [ ] Eu tenho uma dificuldade... me ajuda? 🤝
 
 ## Dia 36
 
