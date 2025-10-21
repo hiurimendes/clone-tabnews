@@ -17,15 +17,9 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 24
-
-- [x] Fazendo o Jest "transpilar" arquivos em ESM
-- [x] Limpando o Banco de Dados
-- [x] Expandindo testes e refatorando implementação
-
 ## Dia 25
 
-- [ ] Fazendo Deploy e rodando as Migrations em Produção 🎉
+- [x] Fazendo Deploy e rodando as Migrations em Produção 🎉
 - [ ] Grande lição + Puxão de orelha 💪
 
 ## Dia 26
