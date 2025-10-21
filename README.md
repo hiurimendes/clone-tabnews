@@ -17,16 +17,11 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 25
-
-- [x] Fazendo Deploy e rodando as Migrations em Produção 🎉
-- [x] Grande lição + Puxão de orelha 💪
-
 ## Dia 26
 
-- [ ] Git Branch (3 níveis de compreensão)
-- [ ] Fazendo deploy em Homologação (Staging)
-- [ ] Reproduzindo e corrigindo o Bug em Homologação
+- [x] Git Branch (3 níveis de compreensão)
+- [x] Fazendo deploy em Homologação (Staging)
+- [x] Reproduzindo e corrigindo o Bug em Homologação
 
 ## Dia 27
 
