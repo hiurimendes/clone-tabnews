@@ -20,7 +20,7 @@ Implementação do tabnews.com.br para o curso.dev
 ## Dia 25
 
 - [x] Fazendo Deploy e rodando as Migrations em Produção 🎉
-- [ ] Grande lição + Puxão de orelha 💪
+- [x] Grande lição + Puxão de orelha 💪
 
 ## Dia 26
 
