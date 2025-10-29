@@ -2,31 +2,10 @@
 
 Implementação do tabnews.com.br para o curso.dev
 
-.
-.
-.
-
-## Dia 12
-
-- [ ] Registrar um Domínio Próprio
-- [ ] Configurar o Servidor de DNS
-- [ ] "Chorinho" sobre Servidor de DNS 💪
-- [ ] 🏳️ Capture The Flag: DNS
-
-.
-.
-.
-
-## Dia 26
-
-- [x] Git Branch (3 níveis de compreensão)
-- [x] Fazendo deploy em Homologação (Staging)
-- [x] Reproduzindo e corrigindo o Bug em Homologação
-
 ## Dia 27
 
-- [ ] Como nunca mais perder código com Git? (Desafio Prova de Fogo 🔥)
-- [ ] Git Merge (Fast Forward)
+- [x] Como nunca mais perder código com Git? (Desafio Prova de Fogo 🔥)
+- [x] Git Merge (Fast Forward)
 
 ## Dia 28
 
