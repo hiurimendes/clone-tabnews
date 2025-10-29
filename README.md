@@ -2,16 +2,11 @@
 
 Implementação do tabnews.com.br para o curso.dev
 
-## Dia 27
-
-- [x] Como nunca mais perder código com Git? (Desafio Prova de Fogo 🔥)
-- [x] Git Merge (Fast Forward)
-
 ## Dia 28
 
-- [ ] Nascimento e "Morte" do Movimento Ágil
-- [ ] Continuous Integration, Delivery e Deployment
-- [ ] Trunk-Based Development, Feature Branch e Git Flow
+- [x] Nascimento e "Morte" do Movimento Ágil
+- [x] Continuous Integration, Delivery e Deployment
+- [x] Trunk-Based Development, Feature Branch e Git Flow
 
 ## Dia 29
 
