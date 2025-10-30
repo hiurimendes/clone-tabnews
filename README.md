@@ -15,8 +15,8 @@ Implementação do tabnews.com.br para o curso.dev
 ## Dia 29
 
 - [x] Estabilizar "npm run dev"
-- [ ] Estabilizar "npm test" (Paralelismo)
-- [ ] Estabilizar "npm test" (Orquestrador)
+- [x] Estabilizar "npm test" (Paralelismo)
+- [x] Estabilizar "npm test" (Orquestrador)
 
 ## Dia 30
 
