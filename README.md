@@ -2,15 +2,19 @@
 
 Implementação do tabnews.com.br para o curso.dev
 
+# Rever
+
 ## Dia 28
 
-- [x] Nascimento e "Morte" do Movimento Ágil
-- [x] Continuous Integration, Delivery e Deployment
-- [x] Trunk-Based Development, Feature Branch e Git Flow
+- [ ] Trunk-Based Development, Feature Branch e Git Flow
+
+.
+.
+.
 
 ## Dia 29
 
-- [ ] Estabilizar "npm run dev"
+- [x] Estabilizar "npm run dev"
 - [ ] Estabilizar "npm test" (Paralelismo)
 - [ ] Estabilizar "npm test" (Orquestrador)
 
