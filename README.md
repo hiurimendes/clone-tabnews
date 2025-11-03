@@ -12,17 +12,11 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 29
-
-- [x] Estabilizar "npm run dev"
-- [ ] Estabilizar "npm test" (Paralelismo)
-- [ ] Estabilizar "npm test" (Orquestrador)
-
 ## Dia 30
 
-- [ ] rafaelcorrea-dev: "maxTimeout"
-- [ ] FernandoWeber, aprendendofelipe, Ilopesr: "Windows"
-- [ ] andrecruzmendes, KleitonBarone, MarcosASFigueiredo: "/status"
+- [x] rafaelcorrea-dev: "maxTimeout"
+- [x] FernandoWeber, aprendendofelipe, Ilopesr: "Windows"
+- [x] andrecruzmendes, KleitonBarone, MarcosASFigueiredo: "/status"
 
 ## Dia 31
 
@@ -139,3 +133,10 @@ Implementação do tabnews.com.br para o curso.dev
 - [ ] Alterando código em massa usando RegEx
 - [ ] Feature padrão "read:activation_token"
 - [ ] Enviando email de ativação
+
+## Dia 49
+
+- [ ] Criar Token de Ativação
+- [ ] Ativar usuário
+- [ ] Injeção de Middlewares
+- [ ] Model Authorization
