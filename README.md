@@ -12,15 +12,9 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 30
-
-- [x] rafaelcorrea-dev: "maxTimeout"
-- [x] FernandoWeber, aprendendofelipe, Ilopesr: "Windows"
-- [x] andrecruzmendes, KleitonBarone, MarcosASFigueiredo: "/status"
-
 ## Dia 31
 
-- [ ] Configurar "Continuous Integration" (com GitHub Actions)
+- [x] Configurar "Continuous Integration" (com GitHub Actions)
 - [ ] Lint Code: Style
 - [ ] Lint Code: Quality
 
