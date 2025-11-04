@@ -15,7 +15,7 @@ Implementação do tabnews.com.br para o curso.dev
 ## Dia 31
 
 - [x] Configurar "Continuous Integration" (com GitHub Actions)
-- [ ] Lint Code: Style
+- [x] Lint Code: Style
 - [ ] Lint Code: Quality
 
 ## Dia 32
