@@ -20,13 +20,13 @@ Implementação do tabnews.com.br para o curso.dev
 
 ## Dia 32
 
-- [ ] É verdade mesmo que commits bem feitos fazem diferença?
-- [ ] Como definir o escopo de um commit?
-- [ ] Como definir a mensagem de um commit?
+- [x] É verdade mesmo que commits bem feitos fazem diferença?
+- [x] Como definir o escopo de um commit?
+- [x] Como definir a mensagem de um commit?
 
 ## Dia 33
 
-- [ ] Lint dos commits (Local)
+- [x] Lint dos commits (Local)
 - [ ] Lint dos commits (CI)
 - [ ] Git Hooks para criação de commits (+ Desafio)
 
