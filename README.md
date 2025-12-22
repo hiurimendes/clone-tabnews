@@ -27,7 +27,7 @@ Implementação do tabnews.com.br para o curso.dev
 ## Dia 33
 
 - [x] Lint dos commits (Local)
-- [ ] Lint dos commits (CI)
+- [x] Lint dos commits (CI)
 - [ ] Git Hooks para criação de commits (+ Desafio)
 
 ## Dia 34
