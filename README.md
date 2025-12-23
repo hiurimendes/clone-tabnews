@@ -12,23 +12,11 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 31
-
-- [x] Configurar "Continuous Integration" (com GitHub Actions)
-- [x] Lint Code: Style
-- [x] Lint Code: Quality
-
-## Dia 32
-
-- [x] É verdade mesmo que commits bem feitos fazem diferença?
-- [x] Como definir o escopo de um commit?
-- [x] Como definir a mensagem de um commit?
-
 ## Dia 33
 
 - [x] Lint dos commits (Local)
 - [x] Lint dos commits (CI)
-- [ ] Git Hooks para criação de commits (+ Desafio)
+- [x] Git Hooks para criação de commits (+ Desafio)
 
 ## Dia 34
 
