@@ -12,17 +12,11 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 33
-
-- [x] Lint dos commits (Local)
-- [x] Lint dos commits (CI)
-- [x] Git Hooks para criação de commits (+ Desafio)
-
 ## Dia 34
 
-- [ ] Uma história macabra sobre "Tipo da Licença"
-- [ ] Semantic Versioning
-- [ ] Resolvendo conflito de "Peer Dependencies"
+- [x] Uma história macabra sobre "Tipo da Licença"
+- [x] Semantic Versioning
+- [x] Resolvendo conflito de "Peer Dependencies"
 - [ ] Finalizando atualizações
 
 ## Dia 35
