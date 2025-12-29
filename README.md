@@ -12,13 +12,6 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 34
-
-- [x] Uma história macabra sobre "Tipo da Licença"
-- [x] Semantic Versioning
-- [x] Resolvendo conflito de "Peer Dependencies"
-- [x] Finalizando atualizações
-
 ## Dia 35
 
 - [ ] Refatorando Scripts e "Efeito Estilingue Infinito"
