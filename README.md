@@ -8,6 +8,10 @@ Implementação do tabnews.com.br para o curso.dev
 
 - [ ] Trunk-Based Development, Feature Branch e Git Flow
 
+## Dia 35
+
+- [ ] Refatorando Testes Automatizados
+
 .
 .
 .
@@ -15,7 +19,7 @@ Implementação do tabnews.com.br para o curso.dev
 ## Dia 35
 
 - [x] Refatorando Scripts e "Efeito Estilingue Infinito"
-- [ ] Refatorando Testes Automatizados
+- [x] Refatorando Testes Automatizados
 - [ ] Encerramento da Milestone 1 🎉
 
 ## Dia 36
