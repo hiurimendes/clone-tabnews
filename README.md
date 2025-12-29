@@ -17,7 +17,7 @@ Implementação do tabnews.com.br para o curso.dev
 - [x] Uma história macabra sobre "Tipo da Licença"
 - [x] Semantic Versioning
 - [x] Resolvendo conflito de "Peer Dependencies"
-- [ ] Finalizando atualizações
+- [x] Finalizando atualizações
 
 ## Dia 35
 
