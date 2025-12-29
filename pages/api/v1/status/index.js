@@ -18,7 +18,7 @@ async function status(request, response) {
 
   const databaseVersionValue = databaseVersion.rows[0].server_version;
   const databaseMaxConnectionsValue = parseInt(
-    databaseMaxConnections.rows[0].max_connections
+    databaseMaxConnections.rows[0].max_connections,
   );
   const databaseOpenedConnectionsValue =
     databaseOpenedConnections.rows[0].count;

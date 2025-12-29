@@ -8,27 +8,18 @@ Implementação do tabnews.com.br para o curso.dev
 
 - [ ] Trunk-Based Development, Feature Branch e Git Flow
 
+## Dia 35
+
+- [ ] Refatorando Testes Automatizados
+
 .
 .
 .
-
-## Dia 33
-
-- [x] Lint dos commits (Local)
-- [x] Lint dos commits (CI)
-- [x] Git Hooks para criação de commits (+ Desafio)
-
-## Dia 34
-
-- [ ] Uma história macabra sobre "Tipo da Licença"
-- [ ] Semantic Versioning
-- [ ] Resolvendo conflito de "Peer Dependencies"
-- [ ] Finalizando atualizações
 
 ## Dia 35
 
-- [ ] Refatorando Scripts e "Efeito Estilingue Infinito"
-- [ ] Refatorando Testes Automatizados
+- [x] Refatorando Scripts e "Efeito Estilingue Infinito"
+- [x] Refatorando Testes Automatizados
 - [ ] Encerramento da Milestone 1 🎉
 
 ## Dia 36

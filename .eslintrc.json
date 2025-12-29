@@ -4,5 +4,15 @@
     "plugin:jest/recommended",
     "next/core-web-vitals",
     "prettier"
+  ],
+  "overrides": [
+    {
+      "files": ["tests/**/*"],
+      "env": {
+        "jest": true,
+        "node": true
+      },
+      "extends": ["eslint:recommended", "plugin:jest/recommended", "prettier"]
+    }
   ]
 }
