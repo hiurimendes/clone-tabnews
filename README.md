@@ -14,7 +14,7 @@ Implementação do tabnews.com.br para o curso.dev
 
 ## Dia 35
 
-- [ ] Refatorando Scripts e "Efeito Estilingue Infinito"
+- [x] Refatorando Scripts e "Efeito Estilingue Infinito"
 - [ ] Refatorando Testes Automatizados
 - [ ] Encerramento da Milestone 1 🎉
 
