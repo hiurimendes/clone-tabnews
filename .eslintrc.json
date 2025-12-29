@@ -7,18 +7,12 @@
   ],
   "overrides": [
     {
-      "files": [
-        "tests/**/*"
-      ],
+      "files": ["tests/**/*"],
       "env": {
         "jest": true,
         "node": true
       },
-      "extends": [
-        "eslint:recommended",
-        "plugin:jest/recommended",
-        "prettier"
-      ]
+      "extends": ["eslint:recommended", "plugin:jest/recommended", "prettier"]
     }
   ]
 }
