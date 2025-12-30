@@ -20,7 +20,7 @@ Implementação do tabnews.com.br para o curso.dev
 
 - [x] Refatorando Scripts e "Efeito Estilingue Infinito"
 - [x] Refatorando Testes Automatizados
-- [ ] Encerramento da Milestone 1 🎉
+- [x] Encerramento da Milestone 1 🎉
 
 ## Dia 36
 
