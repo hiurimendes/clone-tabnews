@@ -16,16 +16,10 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 35
-
-- [x] Refatorando Scripts e "Efeito Estilingue Infinito"
-- [x] Refatorando Testes Automatizados
-- [x] Encerramento da Milestone 1 🎉
-
 ## Dia 36
 
-- [ ] Promessa importante daqui para frente 💪
-- [ ] Inauguração Milestone 2: Usuários, Autenticação e Autorização
+- [x] Promessa importante daqui para frente 💪
+- [x] Inauguração Milestone 2: Usuários, Autenticação e Autorização
 
 ## Dia 37
 
