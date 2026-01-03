@@ -16,16 +16,11 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 36
-
-- [x] Promessa importante daqui para frente 💪
-- [x] Inauguração Milestone 2: Usuários, Autenticação e Autorização
-
 ## Dia 37
 
-- [ ] Um novo jeito de aprender React
-- [ ] Criando primeira versão da página "/status"
-- [ ] Minha versão do componente "DatabaseStatus"
+- [x] Um novo jeito de aprender React
+- [x] Criando primeira versão da página "/status"
+- [x] Minha versão do componente "DatabaseStatus"
 
 ## Dia 38
 
@@ -107,3 +102,9 @@ Implementação do tabnews.com.br para o curso.dev
 - [ ] Ativar usuário
 - [ ] Injeção de Middlewares
 - [ ] Model Authorization
+
+## Dia 50
+
+- [ ] Bloqueando endpoint "/user"
+- [ ] Bloqueando endpoint "/activations/[token_id]"
+- [ ] Bloqueando endpoint "/users"
