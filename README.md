@@ -16,17 +16,11 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 37
-
-- [x] Um novo jeito de aprender React
-- [x] Criando primeira versão da página "/status"
-- [x] Minha versão do componente "DatabaseStatus"
-
 ## Dia 38
 
-- [ ] O que é DE VERDADE um Erro no JavaScript?
-- [ ] Padronização na Captura de Erros
-- [ ] Criando Erros Customizados
+- [x] O que é DE VERDADE um Erro no JavaScript?
+- [x] Padronização na Captura de Erros
+- [x] Criando Erros Customizados
 
 ## Dia 39
 
