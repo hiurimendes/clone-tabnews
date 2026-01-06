@@ -16,15 +16,9 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 38
-
-- [x] O que é DE VERDADE um Erro no JavaScript?
-- [x] Padronização na Captura de Erros
-- [x] Criando Erros Customizados
-
 ## Dia 39
 
-- [ ] Deploy dos Erros Customizados
+- [x] Deploy dos Erros Customizados
 - [ ] Padronizar Controllers (Abstração Nível 1)
 - [ ] Ler códigos como o Neo do Matrix
 - [ ] Padronizar Controllers (Abstração Nível 2)
