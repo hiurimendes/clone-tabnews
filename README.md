@@ -20,8 +20,8 @@ Implementação do tabnews.com.br para o curso.dev
 
 - [x] Deploy dos Erros Customizados
 - [x] Padronizar Controllers (Abstração Nível 1)
-- [ ] Ler códigos como o Neo do Matrix
-- [ ] Padronizar Controllers (Abstração Nível 2)
+- [x] Ler códigos como o Neo do Matrix
+- [x] Padronizar Controllers (Abstração Nível 2)
 
 ## Dia 40
 
