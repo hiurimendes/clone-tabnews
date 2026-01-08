@@ -4,6 +4,11 @@ Implementação do tabnews.com.br para o curso.dev
 
 # Rever
 
+## Dia 8
+
+- [ ] Programação "Orgânica" versus "Impressora 3D"
+- [ ] Por que meus projetos sempre dão certo?
+
 ## Dia 28
 
 - [ ] Trunk-Based Development, Feature Branch e Git Flow
@@ -12,21 +17,18 @@ Implementação do tabnews.com.br para o curso.dev
 
 - [ ] Refatorando Testes Automatizados
 
-.
-.
-.
-
-## Dia 39
-
-- [x] Deploy dos Erros Customizados
-- [x] Padronizar Controllers (Abstração Nível 1)
-- [x] Ler códigos como o Neo do Matrix
-- [x] Padronizar Controllers (Abstração Nível 2)
-
 ## Dia 40
 
 - [ ] O que é de fato um Model no MVC?
-- [ ] Criar model "migrator"
+
+.
+.
+.
+
+## Dia 40
+
+- [x] O que é de fato um Model no MVC?
+- [x] Criar model "migrator"
 
 ## Dia 41
 
