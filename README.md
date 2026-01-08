@@ -25,14 +25,9 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 40
-
-- [x] O que é de fato um Model no MVC?
-- [x] Criar model "migrator"
-
 ## Dia 41
 
-- [ ] Criar migration "users"
+- [x] Criar migration "users"
 - [ ] Criar model "user"
 - [ ] Regras de negócio do model "user"
 
