@@ -28,8 +28,8 @@ Implementação do tabnews.com.br para o curso.dev
 ## Dia 41
 
 - [x] Criar migration "users"
-- [ ] Criar model "user"
-- [ ] Regras de negócio do model "user"
+- [x] Criar model "user"
+- [x] Regras de negócio do model "user"
 
 ## Dia 42
 
