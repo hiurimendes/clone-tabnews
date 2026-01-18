@@ -25,15 +25,9 @@ Implementação do tabnews.com.br para o curso.dev
 .
 .
 
-## Dia 41
-
-- [x] Criar migration "users"
-- [x] Criar model "user"
-- [x] Regras de negócio do model "user"
-
 ## Dia 42
 
-- [ ] Criar endpoint "/api/v1/users/[username]"
+- [x] Criar endpoint "/api/v1/users/[username]"
 - [ ] Refatorações na migration "users"
 
 ## Dia 43
