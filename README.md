@@ -4,20 +4,9 @@ Implementação do tabnews.com.br para o curso.dev
 
 # Lista de Aulas para assistir
 
-## Dia 42
-
-- [x] Criar endpoint "/api/v1/users/[username]"
-- [x] Refatorações na migration "users"
-
-## Dia 43
-
-- [x] Senhas: Como NÃO fazer!!!
-- [x] Senhas: Hash
-- [x] Senhas: Salt e Pepper
-
 ## Dia 44
 
-- [ ] Criando o Hash ao se cadastrar
+- [x] Criando o Hash ao se cadastrar
 - [ ] Atualizando User e Hash (Modo Guerrilha)
 - [ ] Atualizando User e Hash (Sucesso)
 - [ ] Utilizando Faker.js para criar Usuários
@@ -66,6 +55,12 @@ Implementação do tabnews.com.br para o curso.dev
 - [ ] Bloqueando endpoint "/user"
 - [ ] Bloqueando endpoint "/activations/[token_id]"
 - [ ] Bloqueando endpoint "/users"
+
+## Dia 51
+
+- [ ] Bloqueando endpoint "/users/[username]"
+- [ ] Considerando "recursos" no model "authorization"
+- [ ] Super Features e Usuários Privilegiados
 
 ...
 
