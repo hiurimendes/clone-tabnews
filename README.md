@@ -2,39 +2,18 @@
 
 Implementação do tabnews.com.br para o curso.dev
 
-# Rever
-
-## Dia 8
-
-- [ ] Programação "Orgânica" versus "Impressora 3D"
-- [ ] Por que meus projetos sempre dão certo?
-
-## Dia 28
-
-- [ ] Trunk-Based Development, Feature Branch e Git Flow
-
-## Dia 35
-
-- [ ] Refatorando Testes Automatizados
-
-## Dia 40
-
-- [ ] O que é de fato um Model no MVC?
-
-.
-.
-.
+# Lista de Aulas para assistir
 
 ## Dia 42
 
 - [x] Criar endpoint "/api/v1/users/[username]"
-- [ ] Refatorações na migration "users"
+- [x] Refatorações na migration "users"
 
 ## Dia 43
 
-- [ ] Senhas: Como NÃO fazer!!!
-- [ ] Senhas: Hash
-- [ ] Senhas: Salt e Pepper
+- [x] Senhas: Como NÃO fazer!!!
+- [x] Senhas: Hash
+- [x] Senhas: Salt e Pepper
 
 ## Dia 44
 
@@ -87,3 +66,30 @@ Implementação do tabnews.com.br para o curso.dev
 - [ ] Bloqueando endpoint "/user"
 - [ ] Bloqueando endpoint "/activations/[token_id]"
 - [ ] Bloqueando endpoint "/users"
+
+...
+
+# Aulas para revisitar
+
+## Dia 8
+
+- [ ] Programação "Orgânica" versus "Impressora 3D"
+- [ ] Por que meus projetos sempre dão certo?
+
+## Dia 28
+
+- [ ] Trunk-Based Development, Feature Branch e Git Flow
+
+## Dia 35
+
+- [ ] Refatorando Testes Automatizados
+
+## Dia 40
+
+- [ ] O que é de fato um Model no MVC?
+
+## Dia 43
+
+- [ ] Senhas: Como NÃO fazer!!!
+- [ ] Senhas: Hash
+- [ ] Senhas: Salt e Pepper
