@@ -7,8 +7,8 @@ Implementação do tabnews.com.br para o curso.dev
 ## Dia 44
 
 - [x] Criando o Hash ao se cadastrar
-- [ ] Atualizando User e Hash (Modo Guerrilha)
-- [ ] Atualizando User e Hash (Sucesso)
+- [x] Atualizando User e Hash (Modo Guerrilha)
+- [x] Atualizando User e Hash (Sucesso)
 - [ ] Utilizando Faker.js para criar Usuários
 
 ## Dia 45
