@@ -4,20 +4,13 @@ Implementação do tabnews.com.br para o curso.dev
 
 # Lista de Aulas para assistir
 
-## Dia 44
-
-- [x] Criando o Hash ao se cadastrar
-- [x] Atualizando User e Hash (Modo Guerrilha)
-- [x] Atualizando User e Hash (Sucesso)
-- [x] Utilizando Faker.js para criar Usuários
-
 ## Dia 45
 
-- [ ] Autenticação e Autorização
-- [ ] Criar sessões (Modo Guerrilha)
-- [ ] Criar model "authentication"
-- [ ] Criar sessões (Modo Sucesso)
-- [ ] Retornando Cookie de Sessão
+- [x] Autenticação e Autorização
+- [x] Criar sessões (Modo Guerrilha)
+- [x] Criar model "authentication"
+- [x] Criar sessões (Modo Sucesso)
+- [x] Retornando Cookie de Sessão
 
 ## Dia 46
 
