@@ -10,7 +10,7 @@ Implementação do tabnews.com.br para o curso.dev
 - [x] Endpoint "/user"
 - [x] Viajando no tempo com "Fake Timers"
 - [x] Renovando sessões
-- [ ] Lidando com o "ETag" e "Cache-Control"
+- [x] Lidando com o "ETag" e "Cache-Control"
 - [ ] Deletando sessões
 
 ## Dia 47
