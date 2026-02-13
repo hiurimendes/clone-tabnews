@@ -158,12 +158,12 @@ describe("GET /api/v1/user", () => {
     });
 
     test("With nonexistent session", async () => {
-      const nonexistentToke =
+      const nonexistentToken =
         "cbdaf6245fb433c3d0c7a7e2dd68dff9fdd931743c929f4223441735efbeaaf2867ccb115e7a6e62d7e8b41f254620f6";
 
       const response = await fetch("http://localhost:3000/api/v1/user", {
         headers: {
-          cookie: `session_id=${nonexistentToke}`,
+          cookie: `session_id=${nonexistentToken}`,
         },
       });
 

@@ -47,6 +47,13 @@ Implementação do tabnews.com.br para o curso.dev
 - [ ] Considerando "recursos" no model "authorization"
 - [ ] Super Features e Usuários Privilegiados
 
+## Dia 52
+
+- [ ] Filtrando saída em "GET users/[username]"
+- [ ] Filtrando todas as saídas
+- [ ] Desafio "/migrations" e "/status"
+- [ ] Adicionando validações iniciais no "authorization"
+
 ...
 
 # Aulas para revisitar
