@@ -4,21 +4,13 @@ Implementação do tabnews.com.br para o curso.dev
 
 # Lista de Aulas para assistir
 
-## Dia 45
-
-- [x] Autenticação e Autorização
-- [x] Criar sessões (Modo Guerrilha)
-- [x] Criar model "authentication"
-- [x] Criar sessões (Modo Sucesso)
-- [x] Retornando Cookie de Sessão
-
 ## Dia 46
 
-- [ ] Estratégia para Ler, Renovar e Deletar sessões
-- [ ] Endpoint "/user"
-- [ ] Viajando no tempo com "Fake Timers"
-- [ ] Renovando sessões
-- [ ] Lidando com o "ETag" e "Cache-Control"
+- [x] Estratégia para Ler, Renovar e Deletar sessões
+- [x] Endpoint "/user"
+- [x] Viajando no tempo com "Fake Timers"
+- [x] Renovando sessões
+- [x] Lidando com o "ETag" e "Cache-Control"
 - [ ] Deletando sessões
 
 ## Dia 47
