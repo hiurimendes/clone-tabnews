@@ -11,7 +11,7 @@ Implementação do tabnews.com.br para o curso.dev
 - [x] Viajando no tempo com "Fake Timers"
 - [x] Renovando sessões
 - [x] Lidando com o "ETag" e "Cache-Control"
-- [ ] Deletando sessões
+- [x] Deletando sessões
 
 ## Dia 47
 
