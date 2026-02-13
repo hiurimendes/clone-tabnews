@@ -11,7 +11,7 @@ Implementação do tabnews.com.br para o curso.dev
 - [x] Viajando no tempo com "Fake Timers"
 - [x] Renovando sessões
 - [x] Lidando com o "ETag" e "Cache-Control"
-- [ ] Deletando sessões
+- [x] Deletando sessões
 
 ## Dia 47
 
@@ -46,6 +46,13 @@ Implementação do tabnews.com.br para o curso.dev
 - [ ] Bloqueando endpoint "/users/[username]"
 - [ ] Considerando "recursos" no model "authorization"
 - [ ] Super Features e Usuários Privilegiados
+
+## Dia 52
+
+- [ ] Filtrando saída em "GET users/[username]"
+- [ ] Filtrando todas as saídas
+- [ ] Desafio "/migrations" e "/status"
+- [ ] Adicionando validações iniciais no "authorization"
 
 ...
 
