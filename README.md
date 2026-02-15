@@ -4,15 +4,6 @@ Implementação do tabnews.com.br para o curso.dev
 
 # Lista de Aulas para assistir
 
-## Dia 46
-
-- [x] Estratégia para Ler, Renovar e Deletar sessões
-- [x] Endpoint "/user"
-- [x] Viajando no tempo com "Fake Timers"
-- [x] Renovando sessões
-- [x] Lidando com o "ETag" e "Cache-Control"
-- [x] Deletando sessões
-
 ## Dia 47
 
 - [ ] ✉️ Como um "email" realmente funciona?
