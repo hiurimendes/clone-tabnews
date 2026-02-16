@@ -6,10 +6,10 @@ Implementação do tabnews.com.br para o curso.dev
 
 ## Dia 47
 
-- [ ] ✉️ Como um "email" realmente funciona?
-- [ ] Infraestrutura local de email (Mail Catcher)
-- [ ] Criando módulo "email.js"
-- [ ] Finalizando Teste de Integração
+- [x] ✉️ Como um "email" realmente funciona?
+- [x] Infraestrutura local de email (Mail Catcher)
+- [x] Criando módulo "email.js"
+- [x] Finalizando Teste de Integração
 
 ## Dia 48
 
