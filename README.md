@@ -4,21 +4,12 @@ Implementação do tabnews.com.br para o curso.dev
 
 # Lista de Aulas para assistir
 
-## Dia 46
-
-- [x] Estratégia para Ler, Renovar e Deletar sessões
-- [x] Endpoint "/user"
-- [x] Viajando no tempo com "Fake Timers"
-- [x] Renovando sessões
-- [x] Lidando com o "ETag" e "Cache-Control"
-- [x] Deletando sessões
-
 ## Dia 47
 
-- [ ] ✉️ Como um "email" realmente funciona?
-- [ ] Infraestrutura local de email (Mail Catcher)
-- [ ] Criando módulo "email.js"
-- [ ] Finalizando Teste de Integração
+- [x] ✉️ Como um "email" realmente funciona?
+- [x] Infraestrutura local de email (Mail Catcher)
+- [x] Criando módulo "email.js"
+- [x] Finalizando Teste de Integração
 
 ## Dia 48
 
