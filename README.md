@@ -4,17 +4,9 @@ Implementação do tabnews.com.br para o curso.dev
 
 # Lista de Aulas para assistir
 
-## Dia 48
-
-- [x] Estratégia para feature de Autorização
-- [x] Adicionando coluna "features" em "users"
-- [x] Alterando código em massa usando RegEx
-- [x] Feature padrão "read:activation_token"
-- [x] Enviando email de ativação
-
 ## Dia 49
 
-- [ ] Criar Token de Ativação
+- [x] Criar Token de Ativação
 - [ ] Ativar usuário
 - [ ] Injeção de Middlewares
 - [ ] Model Authorization
