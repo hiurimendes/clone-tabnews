@@ -4,18 +4,11 @@ Implementação do tabnews.com.br para o curso.dev
 
 # Lista de Aulas para assistir
 
-## Dia 47
-
-- [x] ✉️ Como um "email" realmente funciona?
-- [x] Infraestrutura local de email (Mail Catcher)
-- [x] Criando módulo "email.js"
-- [x] Finalizando Teste de Integração
-
 ## Dia 48
 
-- [ ] Estratégia para feature de Autorização
-- [ ] Adicionando coluna "features" em "users"
-- [ ] Alterando código em massa usando RegEx
+- [x] Estratégia para feature de Autorização
+- [x] Adicionando coluna "features" em "users"
+- [x] Alterando código em massa usando RegEx
 - [ ] Feature padrão "read:activation_token"
 - [ ] Enviando email de ativação
 
