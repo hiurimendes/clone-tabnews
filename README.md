@@ -10,7 +10,7 @@ Implementação do tabnews.com.br para o curso.dev
 - [x] Adicionando coluna "features" em "users"
 - [x] Alterando código em massa usando RegEx
 - [x] Feature padrão "read:activation_token"
-- [ ] Enviando email de ativação
+- [x] Enviando email de ativação
 
 ## Dia 49
 
