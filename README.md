@@ -7,7 +7,7 @@ Implementação do tabnews.com.br para o curso.dev
 ## Dia 49
 
 - [x] Criar Token de Ativação
-- [ ] Ativar usuário
+- [x] Ativar usuário
 - [ ] Injeção de Middlewares
 - [ ] Model Authorization
 
