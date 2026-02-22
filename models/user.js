@@ -34,7 +34,6 @@ async function findOneById(id) {
 
 async function findOneByUsername(username) {
   const userFound = await runSelectQuery(username);
-  console.log("Found user by username:", userFound);
   return userFound;
 
   async function runSelectQuery(username) {
