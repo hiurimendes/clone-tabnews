@@ -84,7 +84,12 @@ async function injectAnonymousOrUser(request, response, next) {
 
 function injectAnonymousUser(request) {
   const anonymousUserObject = {
-    features: ["read:activation_token", "create:session", "create:user"],
+    features: [
+      "read:activation_token",
+      "create:session",
+      "create:user",
+      "read:session",
+    ],
   };
 
   request.context = {
@@ -97,13 +102,23 @@ function canRequest(feature) {
   return function canRequestMiddleware(request, response, next) {
     const userTryingToRequest = request.context.user;
 
+    console.log("Entrou em canRequestMiddleware", {
+      userTryingToRequest,
+      feature,
+    });
+
     if (authorization.can(userTryingToRequest, feature)) {
       return next();
     }
 
+    console.log("Usuário não autorizado a acessar este recurso", {
+      userTryingToRequest,
+      feature,
+    });
+
     throw new ForbiddenError({
       message: "Você não possui permissão para executar esta ação.",
-      action: `Verifique se o seu usuário possui a feature "${feature}"`,
+      action: `Verifique se o seu usuário possui a feature "${feature}".`,
     });
   };
 }

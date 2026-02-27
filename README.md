@@ -4,16 +4,9 @@ Implementação do tabnews.com.br para o curso.dev
 
 # Lista de Aulas para assistir
 
-## Dia 49
-
-- [x] Criar Token de Ativação
-- [x] Ativar usuário
-- [x] Injeção de Middlewares
-- [x] Model Authorization
-
 ## Dia 50
 
-- [ ] Bloqueando endpoint "/user"
+- [x] Bloqueando endpoint "/user"
 - [ ] Bloqueando endpoint "/activations/[token_id]"
 - [ ] Bloqueando endpoint "/users"
 
@@ -29,6 +22,12 @@ Implementação do tabnews.com.br para o curso.dev
 - [ ] Filtrando todas as saídas
 - [ ] Desafio "/migrations" e "/status"
 - [ ] Adicionando validações iniciais no "authorization"
+
+## Dia 53
+
+- [ ] Atualizar Node.js para 24 LTS
+- [ ] Rodando migrations + História Macabra sobre "Segurança por Disciplina"
+- [ ] Melhorando logs do "email.js"
 
 ...
 
