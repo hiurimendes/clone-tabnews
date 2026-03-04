@@ -29,8 +29,6 @@ function onErrorHandler(error, request, response) {
     cause: error,
   });
 
-  console.log(publicErrorObject);
-
   response.status(publicErrorObject.statusCode).json(publicErrorObject);
 }
 
@@ -102,19 +100,9 @@ function canRequest(feature) {
   return function canRequestMiddleware(request, response, next) {
     const userTryingToRequest = request.context.user;
 
-    console.log("Entrou em canRequestMiddleware", {
-      userTryingToRequest,
-      feature,
-    });
-
     if (authorization.can(userTryingToRequest, feature)) {
       return next();
     }
-
-    console.log("Usuário não autorizado a acessar este recurso", {
-      userTryingToRequest,
-      feature,
-    });
 
     throw new ForbiddenError({
       message: "Você não possui permissão para executar esta ação.",

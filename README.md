@@ -7,7 +7,7 @@ Implementação do tabnews.com.br para o curso.dev
 ## Dia 50
 
 - [x] Bloqueando endpoint "/user"
-- [ ] Bloqueando endpoint "/activations/[token_id]"
+- [x] Bloqueando endpoint "/activations/[token_id]"
 - [ ] Bloqueando endpoint "/users"
 
 ## Dia 51
