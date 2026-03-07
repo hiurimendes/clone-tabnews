@@ -8,7 +8,7 @@ Implementação do tabnews.com.br para o curso.dev
 
 - [x] Bloqueando endpoint "/user"
 - [x] Bloqueando endpoint "/activations/[token_id]"
-- [ ] Bloqueando endpoint "/users"
+- [x] Bloqueando endpoint "/users"
 
 ## Dia 51
 
