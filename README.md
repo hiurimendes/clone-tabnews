@@ -4,15 +4,9 @@ Implementação do tabnews.com.br para o curso.dev
 
 # Lista de Aulas para assistir
 
-## Dia 50
-
-- [x] Bloqueando endpoint "/user"
-- [x] Bloqueando endpoint "/activations/[token_id]"
-- [x] Bloqueando endpoint "/users"
-
 ## Dia 51
 
-- [ ] Bloqueando endpoint "/users/[username]"
+- [x] Bloqueando endpoint "/users/[username]"
 - [ ] Considerando "recursos" no model "authorization"
 - [ ] Super Features e Usuários Privilegiados
 
