@@ -8,7 +8,7 @@ Implementação do tabnews.com.br para o curso.dev
 
 - [x] Bloqueando endpoint "/users/[username]"
 - [x] Considerando "recursos" no model "authorization"
-- [ ] Super Features e Usuários Privilegiados
+- [x] Super Features e Usuários Privilegiados
 
 ## Dia 52
 
