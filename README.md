@@ -4,16 +4,10 @@ Implementação do tabnews.com.br para o curso.dev
 
 # Lista de Aulas para assistir
 
-## Dia 51
-
-- [x] Bloqueando endpoint "/users/[username]"
-- [x] Considerando "recursos" no model "authorization"
-- [x] Super Features e Usuários Privilegiados
-
 ## Dia 52
 
-- [ ] Filtrando saída em "GET users/[username]"
-- [ ] Filtrando todas as saídas
+- [x] Filtrando saída em "GET users/[username]"
+- [x] Filtrando todas as saídas
 - [ ] Desafio "/migrations" e "/status"
 - [ ] Adicionando validações iniciais no "authorization"
 
@@ -22,6 +16,7 @@ Implementação do tabnews.com.br para o curso.dev
 - [ ] Atualizar Node.js para 24 LTS
 - [ ] Rodando migrations + História Macabra sobre "Segurança por Disciplina"
 - [ ] Melhorando logs do "email.js"
+- [ ] O que realmente é SPF, DKIM e DMARC?
 
 ...
 
