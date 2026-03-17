@@ -6,8 +6,11 @@ import migrator from "models/migrator.js";
 import user from "models/user.js";
 import session from "models/session";
 import activation from "models/activation";
+import { writeFile, unlink } from "node:fs/promises";
+import { resolve } from "node:path";
 
 const emailHttpUrl = `http://${process.env.EMAIL_HTTP_HOST}:${process.env.EMAIL_HTTP_PORT}`;
+let testMigrationPath = null;
 
 async function waitForAllServices() {
   await waitForWebServer();
@@ -50,6 +53,32 @@ async function clearDatabase() {
 
 async function runPendingMigrations() {
   await migrator.runPendingMigrations();
+}
+
+async function createNewMigration() {
+  const filename = Date.now() + "_test_temp_migration.js";
+  const filePath = resolve("infra", "migrations", filename);
+
+  try {
+    await writeFile(
+      filePath,
+      "exports.up = () => {};\n\nexports.down = false;\n",
+      "utf8",
+    );
+
+    testMigrationPath = filePath;
+    return filePath;
+  } catch (error) {
+    await unlink(filePath).catch(() => {});
+    testMigrationPath = null;
+    throw error;
+  }
+}
+
+async function deleteTestMigration() {
+  if (!testMigrationPath) return;
+  await unlink(testMigrationPath).catch(() => {});
+  testMigrationPath = null;
 }
 
 async function createUser(userObject) {
@@ -116,6 +145,8 @@ const orchestrator = {
   waitForAllServices,
   clearDatabase,
   runPendingMigrations,
+  createNewMigration,
+  deleteTestMigration,
   createUser,
   activateUser,
   createSession,

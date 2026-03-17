@@ -4,9 +4,9 @@ import migrator from "models/migrator";
 
 const router = createRouter();
 
+router.use(controller.injectAnonymousOrUser);
 router.get(getHandler);
-
-router.post(postHandler);
+router.post(controller.canRequest("run:migrations"), postHandler);
 
 export default router.handler(controller.errorHandlers);
 
