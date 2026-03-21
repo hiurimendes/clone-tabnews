@@ -8,12 +8,12 @@ Implementação do tabnews.com.br para o curso.dev
 
 - [x] Filtrando saída em "GET users/[username]"
 - [x] Filtrando todas as saídas
-- [ ] Desafio "/migrations" e "/status"
-- [ ] Adicionando validações iniciais no "authorization"
+- [x] Desafio "/migrations" e "/status"
+- [x] Adicionando validações iniciais no "authorization"
 
 ## Dia 53
 
-- [ ] Atualizar Node.js para 24 LTS
+- [x] Atualizar Node.js para 24 LTS
 - [ ] Rodando migrations + História Macabra sobre "Segurança por Disciplina"
 - [ ] Melhorando logs do "email.js"
 - [ ] O que realmente é SPF, DKIM e DMARC?
