@@ -7,7 +7,7 @@ Implementação do tabnews.com.br para o curso.dev
 ## Dia 53
 
 - [x] Atualizar Node.js para 24 LTS
-- [ ] Rodando migrations + História Macabra sobre "Segurança por Disciplina"
+- [x] Rodando migrations + História Macabra sobre "Segurança por Disciplina"
 - [ ] Melhorando logs do "email.js"
 - [ ] O que realmente é SPF, DKIM e DMARC?
 - [ ] Enviando emails de verdade 🚀70xp
