@@ -29,6 +29,9 @@ function onErrorHandler(error, request, response) {
     cause: error,
   });
 
+  // Manter para logging na Vercel
+  console.error(publicErrorObject);
+
   response.status(publicErrorObject.statusCode).json(publicErrorObject);
 }
 
