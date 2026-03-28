@@ -9,8 +9,9 @@ Implementação do tabnews.com.br para o curso.dev
 - [x] Atualizar Node.js para 24 LTS
 - [x] Rodando migrations + História Macabra sobre "Segurança por Disciplina"
 - [x] Melhorando logs do "email.js"
-- [ ] O que realmente é SPF, DKIM e DMARC?
-- [ ] Enviando emails de verdade 🚀70xp
+- [x] O que realmente é SPF, DKIM e DMARC?
+- [ ] Enviando emails de verdade 🚀
+- [ ] Refatorações e lapidações finais
 
 ...
 
@@ -38,3 +39,7 @@ Implementação do tabnews.com.br para o curso.dev
 - [ ] Senhas: Como NÃO fazer!!!
 - [ ] Senhas: Hash
 - [ ] Senhas: Salt e Pepper
+
+## Dia 53
+
+- [ ] O que realmente é SPF, DKIM e DMARC?
