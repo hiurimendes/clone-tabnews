@@ -10,7 +10,7 @@ Implementação do tabnews.com.br para o curso.dev
 - [x] Rodando migrations + História Macabra sobre "Segurança por Disciplina"
 - [x] Melhorando logs do "email.js"
 - [x] O que realmente é SPF, DKIM e DMARC?
-- [ ] Enviando emails de verdade 🚀
+- [x] Enviando emails de verdade 🚀
 - [ ] Refatorações e lapidações finais
 
 ...
@@ -43,3 +43,4 @@ Implementação do tabnews.com.br para o curso.dev
 ## Dia 53
 
 - [ ] O que realmente é SPF, DKIM e DMARC?
+- [ ] Enviando emails de verdade 🚀
