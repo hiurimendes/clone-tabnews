@@ -4,46 +4,14 @@ Implementação do tabnews.com.br para o curso.dev
 
 # Lista de Aulas para assistir
 
-## Dia 47
+## Dia 53
 
-- [x] ✉️ Como um "email" realmente funciona?
-- [x] Infraestrutura local de email (Mail Catcher)
-- [x] Criando módulo "email.js"
-- [x] Finalizando Teste de Integração
-
-## Dia 48
-
-- [ ] Estratégia para feature de Autorização
-- [ ] Adicionando coluna "features" em "users"
-- [ ] Alterando código em massa usando RegEx
-- [ ] Feature padrão "read:activation_token"
-- [ ] Enviando email de ativação
-
-## Dia 49
-
-- [ ] Criar Token de Ativação
-- [ ] Ativar usuário
-- [ ] Injeção de Middlewares
-- [ ] Model Authorization
-
-## Dia 50
-
-- [ ] Bloqueando endpoint "/user"
-- [ ] Bloqueando endpoint "/activations/[token_id]"
-- [ ] Bloqueando endpoint "/users"
-
-## Dia 51
-
-- [ ] Bloqueando endpoint "/users/[username]"
-- [ ] Considerando "recursos" no model "authorization"
-- [ ] Super Features e Usuários Privilegiados
-
-## Dia 52
-
-- [ ] Filtrando saída em "GET users/[username]"
-- [ ] Filtrando todas as saídas
-- [ ] Desafio "/migrations" e "/status"
-- [ ] Adicionando validações iniciais no "authorization"
+- [x] Atualizar Node.js para 24 LTS
+- [x] Rodando migrations + História Macabra sobre "Segurança por Disciplina"
+- [x] Melhorando logs do "email.js"
+- [x] O que realmente é SPF, DKIM e DMARC?
+- [x] Enviando emails de verdade 🚀
+- [ ] Refatorações e lapidações finais
 
 ...
 
@@ -71,3 +39,8 @@ Implementação do tabnews.com.br para o curso.dev
 - [ ] Senhas: Como NÃO fazer!!!
 - [ ] Senhas: Hash
 - [ ] Senhas: Salt e Pepper
+
+## Dia 53
+
+- [ ] O que realmente é SPF, DKIM e DMARC?
+- [ ] Enviando emails de verdade 🚀
