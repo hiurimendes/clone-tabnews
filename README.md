@@ -2,45 +2,45 @@
 
 Implementação do tabnews.com.br para o curso.dev
 
-# Lista de Aulas para assistir
+## Lista de Aulas para assistir
 
-## Dia 53
+### Dia 53
 
 - [x] Atualizar Node.js para 24 LTS
 - [x] Rodando migrations + História Macabra sobre "Segurança por Disciplina"
 - [x] Melhorando logs do "email.js"
 - [x] O que realmente é SPF, DKIM e DMARC?
 - [x] Enviando emails de verdade 🚀
-- [ ] Refatorações e lapidações finais
+- [x] Refatorações e lapidações finais
 
 ...
 
-# Aulas para revisitar
+## Aulas para revisitar
 
-## Dia 8
+### Dia 8
 
 - [ ] Programação "Orgânica" versus "Impressora 3D"
 - [ ] Por que meus projetos sempre dão certo?
 
-## Dia 28
+### Dia 28
 
 - [ ] Trunk-Based Development, Feature Branch e Git Flow
 
-## Dia 35
+### Dia 35
 
 - [ ] Refatorando Testes Automatizados
 
-## Dia 40
+### Dia 40
 
 - [ ] O que é de fato um Model no MVC?
 
-## Dia 43
+### Dia 43
 
 - [ ] Senhas: Como NÃO fazer!!!
 - [ ] Senhas: Hash
 - [ ] Senhas: Salt e Pepper
 
-## Dia 53
+### Dia 53
 
 - [ ] O que realmente é SPF, DKIM e DMARC?
 - [ ] Enviando emails de verdade 🚀

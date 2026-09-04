@@ -3,12 +3,10 @@ import database from "infra/database.js";
 import controller from "infra/controller";
 import authorization from "models/authorization";
 
-const router = createRouter();
-
-router.use(controller.injectAnonymousOrUser);
-router.get(getHandler);
-
-export default router.handler(controller.errorHandlers);
+export default createRouter()
+  .use(controller.injectAnonymousOrUser)
+  .get(getHandler)
+  .handler(controller.errorHandlers);
 async function getHandler(request, response) {
   const userTryingToGet = request.context.user;
 
@@ -17,7 +15,6 @@ async function getHandler(request, response) {
   const databaseName = process.env.POSTGRES_DB;
 
   const [databaseVersion, databaseMaxConnections, databaseOpenedConnections] =
-    // eslint-disable-next-line no-undef
     await Promise.all([
       database.query("SHOW server_version;"),
       database.query("SHOW max_connections;"),
@@ -52,5 +49,5 @@ async function getHandler(request, response) {
     statusObject,
   );
 
-  response.status(200).json(secureOutputValues);
+  return response.status(200).json(secureOutputValues);
 }
