@@ -54,7 +54,7 @@ describe("GET /api/v1/migrations", () => {
         ]);
 
         const privilegedUserSession = await orchestrator.createSession(
-          activatedPrivilegedUser.id,
+          activatedPrivilegedUser,
         );
 
         const response = await fetch(
