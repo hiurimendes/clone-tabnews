@@ -15,7 +15,6 @@ async function getHandler(request, response) {
   const databaseName = process.env.POSTGRES_DB;
 
   const [databaseVersion, databaseMaxConnections, databaseOpenedConnections] =
-    // eslint-disable-next-line no-undef
     await Promise.all([
       database.query("SHOW server_version;"),
       database.query("SHOW max_connections;"),

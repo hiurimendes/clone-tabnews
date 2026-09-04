@@ -65,6 +65,7 @@ describe("POST /api/v1/migrations", () => {
   describe("Privileged user", () => {
     describe("Running pending migrations", () => {
       // TODO: Melhorar a geração da migration de teste para que seja possível testar a criação da migration e a execução da mesma em sequência.
+      // eslint-disable-next-line jest/no-disabled-tests
       test.skip("With `create:migration` for the first time", async () => {
         await orchestrator.runPendingMigrations();
 
