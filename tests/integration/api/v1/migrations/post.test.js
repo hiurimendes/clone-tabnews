@@ -12,12 +12,9 @@ describe("POST /api/v1/migrations", () => {
       test("With no authentication", async () => {
         await orchestrator.runPendingMigrations();
 
-        const response = await fetch(
-          `${webserver.origin}/api/v1/migrations`,
-          {
-            method: "POST",
-          },
-        );
+        const response = await fetch(`${webserver.origin}/api/v1/migrations`, {
+          method: "POST",
+        });
 
         expect(response.status).toBe(403);
 
@@ -41,19 +38,14 @@ describe("POST /api/v1/migrations", () => {
 
         const createdUser = await orchestrator.createUser();
         const activatedUser = await orchestrator.activateUser(createdUser);
-        const sessionObject = await orchestrator.createSession(
-          activatedUser,
-        );
+        const sessionObject = await orchestrator.createSession(activatedUser);
 
-        const response = await fetch(
-          `${webserver.origin}/api/v1/migrations`,
-          {
-            method: "POST",
-            headers: {
-              Cookie: `session_id=${sessionObject.token}`,
-            },
+        const response = await fetch(`${webserver.origin}/api/v1/migrations`, {
+          method: "POST",
+          headers: {
+            Cookie: `session_id=${sessionObject.token}`,
           },
-        );
+        });
 
         expect(response.status).toBe(403);
 
@@ -90,15 +82,12 @@ describe("POST /api/v1/migrations", () => {
 
         // await orchestrator.createNewMigration("test-migration");
 
-        const response1 = await fetch(
-          `${webserver.origin}/api/v1/migrations`,
-          {
-            method: "POST",
-            headers: {
-              Cookie: `session_id=${privilegedUserSession.token}`,
-            },
+        const response1 = await fetch(`${webserver.origin}/api/v1/migrations`, {
+          method: "POST",
+          headers: {
+            Cookie: `session_id=${privilegedUserSession.token}`,
           },
-        );
+        });
         expect(response1.status).toBe(201);
 
         const response1Body = await response1.json();
@@ -120,15 +109,12 @@ describe("POST /api/v1/migrations", () => {
           activatedPrivilegedUser,
         );
 
-        const response2 = await fetch(
-          `${webserver.origin}/api/v1/migrations`,
-          {
-            method: "POST",
-            headers: {
-              Cookie: `session_id=${privilegedUserSession.token}`,
-            },
+        const response2 = await fetch(`${webserver.origin}/api/v1/migrations`, {
+          method: "POST",
+          headers: {
+            Cookie: `session_id=${privilegedUserSession.token}`,
           },
-        );
+        });
         expect(response2.status).toBe(200);
 
         const response2Body = await response2.json();

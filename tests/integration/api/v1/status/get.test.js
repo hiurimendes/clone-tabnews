@@ -26,7 +26,7 @@ describe("GET /api/v1/status", () => {
     });
   });
 
-   describe("Default user", () => {
+  describe("Default user", () => {
     test("Retrieving current system status", async () => {
       const createdUser = await orchestrator.createUser();
       const activatedUser = await orchestrator.activateUser(createdUser);
@@ -49,7 +49,6 @@ describe("GET /api/v1/status", () => {
       expect(responseBody.dependencies.database).not.toHaveProperty("version");
     });
   });
-
 
   describe("Privileged user", () => {
     describe("With `read:status:all` feature", () => {

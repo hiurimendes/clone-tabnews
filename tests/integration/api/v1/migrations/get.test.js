@@ -57,15 +57,12 @@ describe("GET /api/v1/migrations", () => {
           activatedPrivilegedUser,
         );
 
-        const response = await fetch(
-          `${webserver.origin}/api/v1/migrations`,
-          {
-            method: "GET",
-            headers: {
-              Cookie: `session_id=${privilegedUserSession.token}`,
-            },
+        const response = await fetch(`${webserver.origin}/api/v1/migrations`, {
+          method: "GET",
+          headers: {
+            Cookie: `session_id=${privilegedUserSession.token}`,
           },
-        );
+        });
 
         expect(response.status).toBe(200);
 
