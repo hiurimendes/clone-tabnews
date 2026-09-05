@@ -22,6 +22,7 @@ Implementação do tabnews.com.br para o curso.dev
 - [ ] Layout do formulário da página "/cadastro"
 
 ### Dia 56
+
 - [ ] Página Ativar: lendo parâmetros da URL
 - [ ] Página Ativar: realizando PATCH contra servidor
 
