@@ -1,5 +1,15 @@
+import DefaultLayout from "interface/DefaultLayout";
+
 function Home() {
-  return <h1>Jesus te ama e eu também.</h1>;
+  return (
+    <DefaultLayout
+      metadata={{
+        description: "Bem-vindo ao TabNews!",
+      }}
+    >
+      <h1>Bem-vindo ao TabNews!</h1>
+    </DefaultLayout>
+  );
 }
 
 export default Home;
