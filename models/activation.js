@@ -57,8 +57,10 @@ async function findOneValidById(tokenId) {
           user_activation_tokens
         WHERE
           id = $1
-          AND expires_at > NOW()
-          AND used_at IS NULL
+          AND (
+            used_at IS NOT NULL
+            OR expires_at > NOW()
+          )
         LIMIT
           1
       ;`,
@@ -120,12 +122,27 @@ async function activateUserByUserId(userId) {
   return activatedUser;
 }
 
+async function activateUserByTokenId(tokenId) {
+  const activationToken = await findOneValidById(tokenId);
+
+  if (activationToken.used_at) {
+    return activationToken;
+  }
+
+  await activateUserByUserId(activationToken.user_id);
+
+  const usedActivationToken = await markTokenAsUsed(activationToken.id);
+
+  return usedActivationToken;
+}
+
 const activation = {
   sendEmailToUser,
   create,
   findOneValidById,
   markTokenAsUsed,
   activateUserByUserId,
+  activateUserByTokenId,
   EXPIRATION_IN_MILLISECONDS,
 };
 
