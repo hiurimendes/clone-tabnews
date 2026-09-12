@@ -4,27 +4,11 @@ Implementação do tabnews.com.br para o curso.dev
 
 ## Lista de Aulas para assistir
 
-### Dia 54
-
-- [x] Inauguração Milestone 3: Frontend (Cadastro, Ativação, Login, Status) e Validação
-- [x] O React parece uma Engine de Jogo 🕹️
-- [x] O contador que não conta
-- [x] A memória que sobrevive ao Render
-- [x] O problema dos "Closures Obsoletos"
-- [x] O problema da "Identidade por referência"
-
-### Dia 55
-
-- [x] Mecânica da página "/cadastro"
-- [x] Instalando e configurando o GitHub Primer
-- [x] Criando o design inicial do "DefaultLayout"
-- [x] Injetando metadados no "DefaultLayout"
-- [x] Layout do formulário da página "/cadastro"
-
 ### Dia 56
 
-- [ ] Página Ativar: lendo parâmetros da URL
-- [ ] Página Ativar: realizando PATCH contra servidor
+- [x] Página Ativar: lendo parâmetros da URL
+- [x] Página Ativar: realizando PATCH contra servidor
+- [x] Página Ativar: banners dinâmicos
 
 ...
 
