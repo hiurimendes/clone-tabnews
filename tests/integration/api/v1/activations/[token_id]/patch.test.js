@@ -75,6 +75,16 @@ describe("PATCH /api/v1/activations/[token_id]", () => {
       );
 
       expect(response1.status).toBe(200);
+      const response1Body = await response1.json();
+
+      expect(response1Body).toEqual({
+        id: response1Body.id,
+        user_id: createdUser.id,
+        expires_at: activationToken.expires_at.toISOString(),
+        created_at: activationToken.created_at.toISOString(),
+        updated_at: response1Body.updated_at,
+        used_at: response1Body.used_at,
+      });
 
       const response2 = await fetch(
         `${webserver.origin}/api/v1/activations/${activationToken.id}`,
@@ -83,17 +93,18 @@ describe("PATCH /api/v1/activations/[token_id]", () => {
         },
       );
 
-      expect(response2.status).toBe(404);
+      expect(response2.status).toBe(200);
 
       const response2Body = await response2.json();
 
-      expect(response2Body).toEqual({
-        name: "NotFoundError",
-        message:
-          "O token de ativação utilizado não foi encontrado no sistema ou expirou.",
-        action: "Faça um novo cadastro.",
-        status_code: 404,
-      });
+      expect(response2Body).toEqual(response1Body);
+
+      const activatedUser = await user.findOneById(createdUser.id);
+      expect(activatedUser.features).toEqual([
+        "create:session",
+        "read:session",
+        "update:user",
+      ]);
     });
 
     test("With valid token", async () => {
