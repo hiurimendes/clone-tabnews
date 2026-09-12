@@ -6,20 +6,20 @@ Implementação do tabnews.com.br para o curso.dev
 
 ### Dia 54
 
-- [ ] Inauguração Milestone 3: Frontend (Cadastro, Ativação, Login, Status) e Validação
-- [ ] O React parece uma Engine de Jogo 🕹️
-- [ ] O contador que não conta
-- [ ] A memória que sobrevive ao Render
-- [ ] O problema dos "Closures Obsoletos"
-- [ ] O problema da "Identidade por referência"
+- [x] Inauguração Milestone 3: Frontend (Cadastro, Ativação, Login, Status) e Validação
+- [x] O React parece uma Engine de Jogo 🕹️
+- [x] O contador que não conta
+- [x] A memória que sobrevive ao Render
+- [x] O problema dos "Closures Obsoletos"
+- [x] O problema da "Identidade por referência"
 
 ### Dia 55
 
-- [ ] Mecânica da página "/cadastro"
-- [ ] Instalando e configurando o GitHub Primer
-- [ ] Criando o design inicial do "DefaultLayout"
-- [ ] Injetando metadados no "DefaultLayout"
-- [ ] Layout do formulário da página "/cadastro"
+- [x] Mecânica da página "/cadastro"
+- [x] Instalando e configurando o GitHub Primer
+- [x] Criando o design inicial do "DefaultLayout"
+- [x] Injetando metadados no "DefaultLayout"
+- [x] Layout do formulário da página "/cadastro"
 
 ### Dia 56
 
